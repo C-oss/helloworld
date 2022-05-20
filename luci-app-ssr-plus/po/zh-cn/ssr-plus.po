@@ -5,7 +5,7 @@ msgid "ShadowSocksR Plus+"
 msgstr "国际互联"
 
 msgid "ShadowSocksR Client"
-msgstr "ShadowSocksR 客户端"
+msgstr "国际互联 客户端"
 
 msgid "Enable"
 msgstr "启用"
@@ -17,10 +17,10 @@ msgid "Log"
 msgstr "日志"
 
 msgid "ShadowSocksR is running"
-msgstr "ShadowSocksR 客户端运行中"
+msgstr "国际互联客户端运行中"
 
 msgid "ShadowSocksR is not running"
-msgstr "ShadowSocksR 客户端未运行"
+msgstr "国际互联客户端未运行"
 
 msgid "Global Setting"
 msgstr "全局设置"
@@ -29,7 +29,7 @@ msgid "Global Server"
 msgstr "全局服务器"
 
 msgid "ShadowSocksR SOCK5 Proxy is running"
-msgstr "ShadowSocksR SOCK5代理运行中"
+msgstr "国际互联 SOCK5代理运行中"
 
 msgid "UDP Relay Server"
 msgstr "UDP中继服务器"
@@ -143,13 +143,13 @@ msgid "SSR Server"
 msgstr "服务端"
 
 msgid "ShadowSocksR Server"
-msgstr "ShadowSocksR 服务端"
+msgstr "国际互联 服务端"
 
 msgid "ShadowSocksR Server is running"
-msgstr "ShadowSocksR 服务端运行中"
+msgstr "国际互联 服务端运行中"
 
 msgid "ShadowSocksR Server is not running"
-msgstr "ShadowSocksR 服务端未运行"
+msgstr "国际互联 服务端未运行"
 
 msgid "Enable Server"
 msgstr "启动服务端"
@@ -413,7 +413,7 @@ msgid "GFW List"
 msgstr "GFW列表"
 
 msgid "ShadowSocksR Plus+ Settings"
-msgstr "ShadowSocksR Plus+ 设置"
+msgstr "国际互联 设置"
 
 msgid "<h3>Support SS/SSR/V2RAY/XRAY/TROJAN/NAIVEPROXY/SOCKS5/TUN etc.</h3>"
 msgstr "<h3>支持 SS/SSR/V2RAY/XRAY/TROJAN/NAIVEPROXY/SOCKS5/TUN 等协议</h3>"
